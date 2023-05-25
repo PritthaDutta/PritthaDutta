@@ -19,7 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="in/prittha-datta-2679ba1b7" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="linkedIn" width="30" height="30"/> </a><a href="https://twitter.com/PritthaDatta" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="twitter" width="30" height="30"/> </a><a href="pritthadatta@gmail.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" alt="gmail" width="30" height="30"/> </a>
+<a href="https://www.linkedin.com/in
+/prittha-datta-2679ba1b7" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="linkedIn" width="30" height="30"/> </a><a href="https://twitter.com/PritthaDatta" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="twitter" width="30" height="30"/> </a><a href="pritthadatta@gmail.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" alt="gmail" width="30" height="30"/> </a>
 </p>
 
 <br />
